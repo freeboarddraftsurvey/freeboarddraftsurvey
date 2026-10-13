@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.freeboard.draftsurvey",
       "sha256_cert_fingerprints": [
-        "DC:A0:E3:84:47:5F:36:9E:36:64:C2:E7:07:02:29:DF:54:CF:8C:34:83:ED:AE:17:11:22:9E:F2:1D:80:EA:92"
+        "DC:A0:E3:84:47:5F:36:9E:36:64:C2:E7:07:02:29:DF:54:CF:8C:34:83:ED:AE:17:11:22:9E:F2:1D:80:EA:92",
+        "8C:D1:84:7B:4C:7E:BD:8F:A4:14:F4:F5:D6:71:16:FE:E9:9E:55:8E:56:58:69:46:4C:26:CC:DC:1A:CD:0E:78"
       ]
     }
   }
