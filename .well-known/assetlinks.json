@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.freeboard.draftsurvey",
+      "sha256_cert_fingerprints": [
+        "DC:A0:E3:84:47:5F:36:9E:36:64:C2:E7:07:02:29:DF:54:CF:8C:34:83:ED:AE:17:11:22:9E:F2:1D:80:EA:92"
+      ]
+    }
+  }
+]
